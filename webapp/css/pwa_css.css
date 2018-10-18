@@ -14,3 +14,8 @@ body {
 .clsPwaApp .clsAppTitle span{
 	font-family: 'Shadows Into Light Two', cursive;
 }
+
+.clsPwaApp .clsPwaFooter{
+	margin-bottom: constant(safe-area-inset-bottom); /* iOS 11.0 */
+	margin-bottom: env(safe-area-inset-bottom); /* iOS 11.2 */
+}

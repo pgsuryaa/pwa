@@ -52,7 +52,7 @@
 					</VBox>
 				</content>
 				<footer>
-					<Toolbar>
+					<Toolbar class="clsPwaFooter">
 						<ToolbarSpacer/>
 						<SegmentedButton selectedKey="small">
 							<items>
