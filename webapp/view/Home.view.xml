@@ -3,7 +3,7 @@
 	<App>
 		<pages>
 			<Page showHeader="false" class="sapUiContentPadding">
-				<subHeader>
+				<subHeader class="clsPwaHeader">
 					<Toolbar>
 						<ToolbarSpacer/>
 						<Title text="Nila" class="clsAppTitle"/>
