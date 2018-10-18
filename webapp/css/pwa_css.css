@@ -23,7 +23,7 @@ body {
     /* iOS 11.2 */
 }
 
-.clsPwaApp .sapMPageSubHeader {
+body, .clsPwaApp .sapMPageSubHeader {
     background: #aaa;
 }
 
