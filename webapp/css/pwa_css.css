@@ -7,3 +7,10 @@ body {
     padding-top: env(safe-area-inset-top);
     /* iOS 11.2 */
 }
+
+.clsPwaApp .sapMShellBrandingBar{
+	visibility: hidden;
+}
+.clsPwaApp .clsAppTitle span{
+	font-family: 'Shadows Into Light Two', cursive;
+}

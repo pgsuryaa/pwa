@@ -6,13 +6,7 @@
 				<subHeader>
 					<Toolbar>
 						<ToolbarSpacer/>
-						<SegmentedButton selectedKey="kids">
-							<items>
-								<SegmentedButtonItem text="Kids" key="kids"/>
-								<SegmentedButtonItem text="Adults"/>
-								<SegmentedButtonItem text="Seniors"/>
-							</items>
-						</SegmentedButton>
+						<Title text="Nila" class="clsAppTitle"/>
 						<ToolbarSpacer/>
 					</Toolbar>
 				</subHeader>
