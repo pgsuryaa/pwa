@@ -1,5 +1,14 @@
 {
 	"_version": "1.5.0",
+
+	"name": "Nila",
+	"short_name": "Nila",
+	"start_url": "index.html",
+	"display": "standalone",
+	"background_color": "#000000",
+	"theme_color": "#427CAC",
+	
+	
 	"sap.app": {
 		"id": "pwa.gitzpwa_git",
 		"type": "application",
