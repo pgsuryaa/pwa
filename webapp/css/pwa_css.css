@@ -9,6 +9,10 @@ body {
     background-color: grey !important;
 }
 
+.clsPwaApp {
+    margin: 0;
+}
+
 .clsPwaApp .sapMShellBrandingBar {
     visibility: hidden;
 }
