@@ -5,7 +5,7 @@ var RESOURCES_TO_PRELOAD = [
 	'register-worker.js',
 	'../model/models.js',
 	'../controller/Home.controller.js',
-	'../view/Home.view.js',
+	'../view/Home.view.xml',
 	'../css/pwa_css.css'
 ];
 
